@@ -1,2 +1,4 @@
 # Profil
 COUCOU
+
+![](boat.png)
